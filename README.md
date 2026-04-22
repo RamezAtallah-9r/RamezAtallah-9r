@@ -14,7 +14,7 @@
 
 I'm a **Computer Systems Engineer & Full-Stack Developer** from Palestine 🇵🇸, currently completing an intensive bootcamp at **Axsos Academy** (620+ hours of hands-on coding). I combine academic training in system architecture with practical project experience building scalable web applications.
 
-I'm **actively seeking a Junior Developer role in Europe** where I can contribute my technical skills, collaborate with innovative teams, and grow within the tech industry. I'm open to employment opportunities, consulting engagements, and mentoring/open-source contributions.
+I'm **actively seeking a Junior Developer role** where I can contribute my technical skills, collaborate with innovative teams, and grow within the tech industry. I'm open to employment opportunities, consulting engagements, and mentoring/open-source contributions.
 
 ---
 
