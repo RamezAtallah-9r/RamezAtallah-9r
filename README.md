@@ -4,7 +4,7 @@
   
 **Full-Stack Developer | Computer Systems Engineer | Building Scalable Web Applications**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Systems+Engineer;Always+Learning%2C+Always+Building;Actively+Seeking+Junior+Developer+Roles+in+Europe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Systems+Engineer;Always+Learning%2C+Always+Building;Actively+Seeking+Junior+Developer+Roles)](https://git.io/typing-svg)
 
 </div>
 
