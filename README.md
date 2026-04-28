@@ -1,226 +1,214 @@
-# 👋 Hey, I'm Ramez Atallah
-
 <div align="center">
-  
-**Full-Stack Developer | Computer Systems Engineer | Building Scalable Web Applications**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Systems+Engineer;Always+Learning%2C+Always+Building;Actively+Seeking+Junior+Developer+Roles)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ENGRamez Atallah
+
+### <span style="color:#ff7a00;">Full-Stack Developer • Computer Systems Engineer • Future Tech Builder</span>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Building+Modern+Scalable+Applications;Engineering+Creative+Digital+Solutions;Open+to+European+Tech+Opportunities" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-FF7A00?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Engineer-1f1f1f?style=for-the-badge&logo=linux&logoColor=FF7A00"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Europe-FF7A00?style=for-the-badge&logo=googleearth&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+<div align="center">
 
-I'm a **Computer Systems Engineer & Full-Stack Developer** from Palestine 🇵🇸, currently completing an intensive bootcamp at **Axsos Academy** (620+ hours of hands-on coding). I combine academic training in system architecture with practical project experience building scalable web applications.
 
-I'm **actively seeking a Junior Developer role** where I can contribute my technical skills, collaborate with innovative teams, and grow within the tech industry. I'm open to employment opportunities, consulting engagements, and mentoring/open-source contributions.
++ Designing secure systems
++ Developing scalable web platforms
++ Growing toward elite engineering standards
+
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🌍 Who I Am
+
+- 🇵🇸 Palestinian Full-Stack Developer & Computer Systems Engineer  
+- 🎓 Bachelor's Degree in Computer Systems Engineering  
+- 🚀 Currently completing **Axsos Academy Full-Stack Bootcamp (620+ Hours)**
+- 💡 Passionate about building scalable, responsive, modern applications  
+- 🌐 Seeking **Junior Developer opportunities across Europe**
+- 📍 Open to remote, hybrid, or relocation opportunities  
+- 🤝 Interested in collaboration, consulting, and open-source  
+
+### 💬 Professional Summary
+
+I blend strong academic engineering knowledge with hands-on software development expertise. My focus is creating secure, efficient, and scalable web applications while continuously evolving with modern technologies.
 
 ---
 
-## 🚀 Current Focus
-
-- 📚 **Learning**: Advanced JavaScript/TypeScript, DevOps practices, modern stacks (MERN, PHP, java, Python) and cloud technologies
-- 🤝 **Collaborating**: On meaningful projects and open-source initiatives
-- 🎓 **Completing**: Intensive Full-Stack Developer Certificate (Axsos Academy) - ends August 2026
-
----
-
-## 💼 Tech Stack
+# 🚀 Current Focus
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| 🎯 Focus Area | 📌 Details |
+|--------------|------------|
+| 📚 Learning | Advanced JavaScript, TypeScript, MERN, DevOps, Cloud |
+| 💼 Career | Junior Developer opportunities in Europe |
+| 🤝 Collaboration | Open-source + impactful development teams |
+| 🏗️ Building | Real-world scalable web applications |
 
 </div>
 
 ---
 
-## 📂 Featured Projects
-
-### 🏥 **Clinic Management System**
-**Full-Stack Web Application** | Jan 2025 – Feb 2025
-
-A comprehensive clinic management platform showcasing full-stack development expertise.
-
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript  
-**Key Features:**
-- 🔐 Role-based authentication system (Admin, Doctor, Patient, Pharmacist, Receptionist)
-- 📅 Dynamic scheduling system managing doctor sessions (Full-time/Part-time)
-- 📝 Patient records management with prescription tracking
-- 🗄️ Optimized MySQL database schema for complex data relationships
-
-**Impact:** Demonstrates end-to-end development capability, from database design to secure authentication and dynamic business logic.
-
----
-
-### 🎮 **Interactive Memory Card Game**
-**Vanilla JavaScript** | Mar 2026 – Apr 2026
-
-A responsive, feature-rich memory game with progressive difficulty and persistent user data.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Web Audio API, localStorage  
-**Key Features:**
-- 🎯 Three difficulty levels (Easy/Medium/Hard) with dynamic grid layouts
-- 🎵 Web Audio API integration for background music with autoplay handling
-- 📊 Score history tracking using localStorage (persistent across sessions)
-- 📱 Cross-device compatibility (touch/mouse support, responsive design)
-- ⏱️ Real-time timer and match detection logic
-
-**Impact:** Demonstrates DOM manipulation, event handling, Web APIs, and user preference persistence.
-
-**🔗 [View Project](https://github.com/RamezAtallah-9r/SimpleProjects/tree/main/memory%20card)**
-
----
-
-### ✨ **Interactive Particles Animation**
-**Canvas API & Physics** | Mar 2026 – Apr 2026
-
-An advanced interactive particle system showcasing creative JavaScript and physics simulation.
-
-**Tech Stack:** HTML5 Canvas API, Vanilla JavaScript, CSS3  
-**Key Features:**
-- 🎨 Dynamic particle interactions (1000+ particles with cursor tracking)
-- 💥 Real-time collision detection and physics-based bounce resolution
-- 🎨 Customizable color panel for dynamic visual feedback
-- 📱 Responsive design with window resize handling and touch support
-
-**Impact:** Demonstrates advanced Canvas API knowledge, physics algorithms, and real-time performance optimization.
-
-**🔗 [View Project](https://github.com/RamezAtallah-9r/SimpleProjects/tree/main/particele)**
-
----
-
-## 📊 GitHub Stats
+# 💻 Tech Arsenal
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamezAtallah-9r&theme=react&show_icons=true&hide_border=true)](https://github.com/RamezAtallah-9r)
+## 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamezAtallah-9r&layout=compact&theme=react&hide_border=true)](https://github.com/RamezAtallah-9r)
+## ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
-
-### Full-Stack Developer Certificate
-**Axsos Academy** | Mar 2026 – Current  
-*Ramallah, Palestinian Territories*
-
-- 620+ hands-on coding hours across Python, Java, MERN, and modern web stacks
-- Web Fundamentals & Advanced Web (HTML5, CSS3, JavaScript, responsive design)
-- Python & Java Stack (OOP, algorithms, data structures, backend development)
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-### Bachelor in Computer Systems Engineering
-**Palestine Technical University – Kadoorie** | Aug 2018 – Mar 2025  
-*Tulkarem, Palestinian Territories*
-
-- System architecture, software engineering principles, design patterns
-- Core CS fundamentals: Algorithms, data structures, databases, networking
-- Full software development lifecycle experience with version control (Git)
+# 🏆 Featured Projects
 
 ---
 
-## 🌐 Language Skills
+## 🏥 Clinic Management System
+<img align="right" width="220" src="https://media.giphy.com/media/3o7TKsQ8UQ6r6sD9hK/giphy.gif">
 
-| Language | Proficiency |
-|----------|-------------|
-| **Arabic** | Native |
-| **English** | Proficient (C1 Listening/Reading, B2 Written/Spoken) |
+### 🔹 Full-Stack Healthcare Platform
+**Tech:** PHP | MySQL | JavaScript | HTML5 | CSS3  
 
----
+### ✨ Highlights:
+- Secure role-based authentication
+- Dynamic doctor scheduling system
+- Prescription & patient record management
+- Complex relational database architecture
+- Real-world scalable clinic workflow
 
-## 💡 Core Competencies
-
-```
-✓ Full-Stack Web Development
-✓ Object-Oriented Programming & Design Patterns
-✓ Database Design & Query Optimization (MySQL, PostgreSQL, MongoDB)
-✓ Responsive & Modern Web Architecture
-✓ Authentication & Authorization Systems
-✓ API Development & Integration
-✓ Version Control (Git/GitHub)
-✓ Algorithms & Data Structures
-✓ Problem-Solving & Adaptability
-✓ Teamwork & Communication
-```
+### 🎯 Value:
+Demonstrates enterprise-level architecture, security, and operational efficiency.
 
 ---
 
-## 🤝 Let's Connect!
+## 🎮 Interactive Memory Card Game
 
-I'm actively seeking:
-- 💼 **Junior Developer positions** in Europe (Remote/On-site)
-- 🎯 **Freelance/Consulting projects** for growing businesses
-- 📚 **Mentoring & open-source contributions** to give back to the community
-- 💬 **Collaborations** on innovative tech projects
+<img align="right" width="220" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+### 🔹 Advanced JavaScript Game
+**Tech:** Vanilla JS | Web Audio API | localStorage  
+
+### ✨ Highlights:
+- Dynamic difficulty scaling
+- Real-time scoring
+- Persistent player data
+- Audio system integration
+- Fully responsive design
+
+### 🔗 Repository:
+[View Project](https://github.com/RamezAtallah-9r/SimpleProjects/tree/main/memory%20card)
+
+---
+
+## ✨ Interactive Particles Animation
+
+<img align="right" width="220" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+### 🔹 Physics-Based Canvas System
+**Tech:** HTML5 Canvas | JavaScript | CSS3  
+
+### ✨ Highlights:
+- 1000+ real-time particles
+- Physics collision engine
+- Mouse/touch interactivity
+- Dynamic customization controls
+- Performance optimization
+
+### 🔗 Repository:
+[View Project](https://github.com/RamezAtallah-9r/SimpleProjects/tree/main/particele)
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![Email Badge](https://img.shields.io/badge/Email-ramez.atallah%40hotmail.com-blue?style=for-the-badge&logo=gmail)](mailto:ramez.atallah@hotmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ramez%20Atallah-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramez-atallah)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-RamezAtallah--9r-181717?style=for-the-badge&logo=github)](https://github.com/RamezAtallah-9r)
-[![Phone Badge](https://img.shields.io/badge/Phone-%2B970%20569999839-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/970569999839)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamezAtallah-9r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamezAtallah-9r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamezAtallah-9r&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+# 🎓 Education Journey
 
-**Ideal Opportunity:**
-- Role: Junior Full-Stack Developer or similar entry-level position
-- Location: Europe (Remote/Hybrid/On-site)
-- Environment: Growth-focused team with mentorship opportunities
-- Technologies: MERN stack, Python, Java, or PHP preferred
-
-**What I bring:**
-- ✅ 620+ hours of intensive, hands-on coding training
-- ✅ Computer Systems Engineering background + modern bootcamp expertise
-- ✅ 3 production-ready projects demonstrating full-stack capabilities
-- ✅ Strong problem-solving and adaptability mindset
-- ✅ Enthusiasm for learning and contributing to team goals
-- ✅ Bilingual (Arabic/English)
+## 🏫 Axsos Academy — Full-Stack Developer Certificate
+**2026 – Present**
+- 620+ coding hours
+- Python, Java, MERN
+- Modern web development
+- Advanced responsive architecture
 
 ---
 
-## 📈 What's Next
-
-- 🎓 Completing Axsos Academy (August 2026)
-- 🏢 Actively pursuing Junior Developer roles in Europe
-- 🔧 Expanding portfolio with more complex projects
-- 📖 Deepening expertise in DevOps and cloud technologies (AWS)
+## 🎓 Palestine Technical University – Kadoorie
+**Bachelor in Computer Systems Engineering**
+**2018 – 2025**
+- System Architecture
+- Software Engineering
+- Databases
+- Algorithms
+- Networks
+- SDLC
 
 ---
+
+# 🌐 Languages
 
 <div align="center">
 
-### "The best time to start was yesterday. The second best time is now." 💪
+| Language | Level |
+|----------|-------|
+| 🇵🇸 Arabic | Native |
+| 🇬🇧 English | C1/B2 Professional |
 
-**Let's build something amazing together!**
+</div>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RamezAtallah-9r.RamezAtallah-9r)
+# 🧠 Core Strengths
 
-*Last updated: April 2026*
-
-</div>
+```yaml
+Full-Stack Development
+Database Architecture
+Authentication Systems
+Responsive Design
+Problem Solving
+System Engineering
+DevOps Fundamentals
+Team Collaboration
+Continuous Learning
